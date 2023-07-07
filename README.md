@@ -1,4 +1,4 @@
-# cobf74b01970c0631693c4622
+# Scrimba
 
 Quick start:
 
